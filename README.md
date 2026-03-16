@@ -76,7 +76,7 @@ Follow these steps to run the project locally:
 
 3. **Run the application**
 
-   * Open `index.html` in your browser
+   * Open `fee.html` in your browser
 
 No installation, build tools, or dependencies are required.
 
