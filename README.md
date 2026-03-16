@@ -1,6 +1,3 @@
-# finance-dashboard-web
-A simple finance dashboard to track income, expenses, categories, upcoming bills and events using JavaScript and localStorage.
-
 # 💰 Finance Dashboard Web
 
 A simple and modern **personal finance dashboard** that helps users track income, expenses, categories, upcoming bills, and event-related spending.
